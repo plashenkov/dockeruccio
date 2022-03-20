@@ -1,2 +1,3 @@
-# dockeruccio
-Another Docker registry UI
+# Dockeruccio
+
+Dockeruccio is another Docker registry UI.
