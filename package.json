@@ -1,0 +1,10 @@
+{
+  "name": "dockeruccio",
+  "private": true,
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.2.4",
+    "modern-normalize": "^1.1.0",
+    "vite": "^2.8.6",
+    "vue": "^3.2.31"
+  }
+}
