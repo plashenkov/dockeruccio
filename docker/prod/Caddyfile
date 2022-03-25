@@ -1,5 +1,0 @@
-http:// {
-	root * /app
-	file_server
-	templates /index.html
-}
