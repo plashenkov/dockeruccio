@@ -3,9 +3,6 @@ import vue from '@vitejs/plugin-vue'
 
 export default {
   plugins: [vue()],
-  build: {
-    outDir: 'docker/prod/dist'
-  },
   server: {
     host: true,
     port: 80,
