@@ -1,4 +1,4 @@
-FROM node:17.8.0-alpine AS build
+FROM node:17.9.0-alpine AS build
 WORKDIR /app
 COPY package*.json ./
 RUN npm i

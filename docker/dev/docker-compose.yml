@@ -20,7 +20,7 @@ services:
       - REGISTRY_STORAGE_DELETE_ENABLED=true
 
   dockeruccio:
-    image: node:17.7.1-alpine
+    image: node:17.9.0-alpine
     volumes:
       - ../..:/app
       - node_modules:/app/node_modules
