@@ -1,4 +1,6 @@
+.directory
 .DS_Store
 Icon?
+/temp
 /node_modules
 /npm-debug.log
